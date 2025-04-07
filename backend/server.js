@@ -37,5 +37,5 @@ app.listen(port,()=>{
 })
 
 
-// mongodb+srv://atlas-sample-dataset-load-67e3dbf35c0c8c568ceaca4d:<db_password>@cluster0.clrbtmb.mongodb.net/
+
 
